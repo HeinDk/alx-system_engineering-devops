@@ -1,2 +1,2 @@
 #!/bin/bang
-grep root /etc/passwd
+grep 'root' /etc/passwd
